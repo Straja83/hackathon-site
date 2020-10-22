@@ -4,7 +4,7 @@ sections:
   - title: Upcoming Events
     numberOfColumns: 4
     items:
-      - title: Strahinja
+      - title: Zero touch network and Service Management...
         link: /events
         date: 17 September 2020
         image: images/layer123-event-1.jpg
