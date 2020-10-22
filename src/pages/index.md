@@ -2,7 +2,7 @@
 title: Home
 sections:
   - title: Upcoming Events
-    numberOfColumns: 4
+    numberOfColumns: 2
     items:
       - title: Zero touch network and Service Management...
         link: /events
