@@ -4,7 +4,7 @@ sections:
   - title: Upcoming Events
     numberOfColumns: 4
     items:
-      - title: Zero touch network111 and Service Management...
+      - title: Zero touch network222 and Service Management...
         link: /events
         date: 17 September 2020
         image: images/layer123-event-1.jpg
